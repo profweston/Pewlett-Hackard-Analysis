@@ -6,4 +6,9 @@ Pewlett Hackard is looking ahead to plan for a potentially large number of retir
 
 ## Results
 
+### Anticipated Retirees By Title
+
+Those expected to retire were determined by a query of employees who were born between January 1, 1952 and December 31, 1955 and the title that these employees held in the company. Because employees may have had more than one title during their employ, the data was filtered to the last title the employee held. This information is provided in the table. 
+
+
 
