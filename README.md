@@ -40,9 +40,10 @@ The greatest impact that Pewlett Hackard should expect as retirements commence w
 
 When considering the various levels of engineers, some departments have a large number while others have a small number. Those departments such as Research or Customer Service would likely feel the impact the most and should be a focus of attention as mentorship projects are designed. Although staff have a greater presence among departments, the numbers are greater and thus less likely to feel a vast impact unless many employees retire within a very short time frame. 
 
-For the mentorship to have the greatest chance of success, it would wise to have a mentor within the same department as the new hire so that job responsibilities are similar. Additional queries were conducted to examine availability of potential mentors across departments. Then a pivot table was created. 
-
+For the mentorship to have the greatest chance of success, it would wise to have a mentor within the same department as the new hire so that job responsibilities are similar. Additional queries were conducted to examine availability of potential mentors across departments. Then a pivot table was created. A picture of the code used to create the query is below the table. Similar code was used to create the titles by department information.
 
 ![mentor_pivot](Resources/mentor_pivot.png)
+
+![mentorship_code](Resources/mentorship_code.png)
 
 An examination of the ratio of potential mentors to potential retirees reveals that there may not be enough eligible mentors available to train new employees replacing those who retire. If no distinction is made between the level of title among engineers, the ratio of mentors to retirees exceeds 1:20 in each department that engineers work. If no distinction is made between the level of title of staff, the ratio of mentors to retirees ranges from 1:17 up to 1:34. Although one mentor could train more than one employee, these ratios still suggest that there are not enough potential mentors. Perhaps Pewlett Hackard could reconsider who could be eligible for the mentorship by broadening the date parameters or provide some sort of incentives for other employees to become mentors.
